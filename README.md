@@ -11,7 +11,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> The main objective of the project was to develop an open source electrical stimulator for transcutaneous spinal cord stimulation.
 
 ### DESIGN:
-<P align="justify"> We offer this open design as it is. Although it has been regorously tested with utmost care and to the best of our knowledge, we do not provide any warranty in any aspect.
+<P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
 ### STIMULATOR PARAMETERS
 -Current: 10 mA up to 120 mA <br/>
@@ -22,7 +22,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 
 ### TUTORIALS
 
-### More about the lab, at our website: [Innomeds.org](https://innomeds.org/)
+### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
 
 ### DISCLAIMER:
 <P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
