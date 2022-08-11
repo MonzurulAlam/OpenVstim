@@ -13,19 +13,19 @@ Contact: md.malam@connect.polyu.hk <br/>
 ### DESIGN:
 <P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
-### STIMULATOR PARAMETERS
+### STIMULATOR PARAMETERS:
 -Current: 10 mA up to 120 mA <br/>
 -Stimulation Frequency: 0.1 Hz up to 300 Hz <br/>
 -Carrier Frequency: 1 kHz to 10 kHz <br/>
 -Pulse duration: 50 µs to 1 s <br/>
 -Biphasic Pulses <br/>
 
-### TUTORIALS
+### TUTORIALS:
 
 ### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
 
 ### DISCLAIMER:
 <P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
-### LICENSE
+### LICENSE:
 ##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
