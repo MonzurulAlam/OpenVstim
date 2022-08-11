@@ -1,2 +1,1 @@
-# OpenVstim
-Open Source Transcutaneous Electrical Stimulator
+# OpenVstim - Open Source Transcutaneous Electrical Stimulator
