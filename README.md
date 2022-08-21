@@ -14,18 +14,22 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
 ### STIMULATOR PARAMETERS:
--Current: 10 mA up to 150 mA <br/>
--Stimulation Frequency: 0.1 Hz up to 300 Hz <br/>
--Carrier Frequency: 1 kHz to 10 kHz <br/>
--Pulse duration: 50 µs to 1 s <br/>
--Biphasic Pulses <br/>
+- Channel: 1 (can be expanded to more channels) <br/>
+- Pulse Amplitude: Adjustable, 0-100 mA peak in to 500 ohm load <br/>
+- Compliance Voltage: ±50 V  (maximum) <br/>
+- Pulse duration: 50 µs (can be reprogrammed) <br/>
+- Interpulse Interval: 1 µs (can be reprogrammed) <br/>
+- Waveform: Biphasic square wave  <br/>
+- Stimulation Frequency: 20 Hz (can be reprogammed) <br/>
+- Carrier Frequency: 10 kHz (can be reprogrammed) <br/>
+- Power: 9 V battery (can be rechared) <br/>
 
 ### TUTORIALS:
 
 ### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
 
 ### DISCLAIMER:
-<P align="justify"> The open design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
+<P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
 ### WARNING:
 - The desing is inteded strickly for research and education purpose. 
