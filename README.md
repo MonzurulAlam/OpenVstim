@@ -26,7 +26,7 @@ Contact: md.malam@connect.polyu.hk <br/>
  
 ### STIMULATOR PARAMETERS:
 - Channel: 1 (can be expanded to more channels) <br/>
-- Pulse Amplitude: Adjustable, 0-100 mA peak in to 500 ohm load <br/>
+- Pulse Amplitude: 0-100 mA peak into 500 ohm load <br/>
 - Compliance Voltage: ±50 V  (maximum) <br/>
 - Pulse duration: 50 µs (can be reprogrammed) <br/>
 - Interpulse Interval: 1 µs (can be reprogrammed) <br/>
