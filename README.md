@@ -11,7 +11,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> The main objective of the project was to develop an open source electrical stimulator for transcutaneous spinal cord stimulation.
 
 ### DESIGN:
-<P align="justify"> Block diagram of a transcutaneous voltage stimulator (OpenVstim)
+<P align="justify"> Block diagram of the transcutaneous voltage stimulator (OpenVstim)
  
 ![Block-Diagram](https://github.com/OpenXStim/openVstim/blob/main/BlockDiagram.png)
  
