@@ -13,7 +13,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 ### DESIGN:
 <P align="justify"> Block diagram of a transcutaneous voltage stimulator (OpenVstim)
  
-![Block-Diagram](https://github.com/OpenXStim/openVstim/blob/main/Images/BlockDiagram.png)
+![Block-Diagram](https://github.com/OpenXStim/openVstim/blob/main/BlockDiagram.png)
  
 ### Stage 1: DC-DC Booster 
  
