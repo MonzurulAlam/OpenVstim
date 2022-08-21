@@ -11,8 +11,19 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> The main objective of the project was to develop an open source electrical stimulator for transcutaneous spinal cord stimulation.
 
 ### DESIGN:
-<P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
+<P align="justify"> Block diagram of a transcutaneous voltage stimulator (OpenVstim)
+ 
+![Block-Diagram](https://github.com/OpenXStim/openVstim/blob/main/Images/BlockDiagram.png)
+ 
+### Stage 1: DC-DC Booster 
+ 
+### Stage 2: Full H-bridge 
+ 
+### Stage 3: Microcontroller (Arduino Uno)
+ 
+### Asembly: Prototyping on Arduino Uno Shield board 
 
+ 
 ### STIMULATOR PARAMETERS:
 - Channel: 1 (can be expanded to more channels) <br/>
 - Pulse Amplitude: Adjustable, 0-100 mA peak in to 500 ohm load <br/>
@@ -25,7 +36,6 @@ Contact: md.malam@connect.polyu.hk <br/>
 - Power: 9 V battery (can be rechared) <br/>
 
 ### TUTORIALS:
-
 ### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
 
 ### DISCLAIMER:
