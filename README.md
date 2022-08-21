@@ -14,7 +14,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
 ### STIMULATOR PARAMETERS:
--Current: 10 mA up to 120 mA <br/>
+-Current: 10 mA up to 150 mA <br/>
 -Stimulation Frequency: 0.1 Hz up to 300 Hz <br/>
 -Carrier Frequency: 1 kHz to 10 kHz <br/>
 -Pulse duration: 50 µs to 1 s <br/>
@@ -25,7 +25,13 @@ Contact: md.malam@connect.polyu.hk <br/>
 ### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
 
 ### DISCLAIMER:
-<P align="justify"> I offer this open design as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
+<P align="justify"> The open design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
+
+### WARNING:
+- The desing is inteded strickly for research and education purpose. 
+- The stimulator is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Review Board
+- The stimulator can generate high voltage and under no circumstances it should be placed across the chest or close to the heart
+- The stimulator should never be powered or charged from external adapter, USB or power source while being used or connected to the body.
 
 ### LICENSE:
 ##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
