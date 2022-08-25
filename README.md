@@ -31,9 +31,9 @@ Contact: md.malam@connect.polyu.hk <br/>
 - Output Voltage: maximum ±50 V <br/>
 - Pulse duration: 50 µs (can be reprogrammed) <br/>
 - Interpulse Interval: 1 µs (can be reprogrammed) <br/>
-- Stimulation Frequency: 20 Hz (can be reprogammed) <br/>
+- Stimulation Frequency: 30 Hz (can be reprogammed) <br/>
 - Carrier Frequency: 10 kHz (can be reprogrammed) <br/>
-- Power: 9 V battery (can be rechared) <br/>
+- Power: One 9 V battery <br/>
 
 ### TUTORIALS:
 ### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
