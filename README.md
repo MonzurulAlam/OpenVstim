@@ -36,7 +36,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 - Power: One 9 V battery <br/>
 
 ### TUTORIALS:
-### For more on this, please visit: [Innomeds.org](https://innomeds.org/)
+### For more on this, please visit: [Innomeds.org](https://www.youtube.com/channel/UCbJmVIHp6DNizZjKjeSPdPg)
 
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
