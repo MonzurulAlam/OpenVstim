@@ -26,11 +26,11 @@ Contact: md.malam@connect.polyu.hk <br/>
  
 ### STIMULATOR PARAMETERS:
 - Channel: 1 (can be expanded to more channels) <br/>
+- Waveform: Biphasic square wave  <br/>
 - Pulse Amplitude: 0-100 mA peak into 500 ohm load <br/>
 - Output Voltage: maximum ±50 V <br/>
 - Pulse duration: 50 µs (can be reprogrammed) <br/>
 - Interpulse Interval: 1 µs (can be reprogrammed) <br/>
-- Waveform: Biphasic square wave  <br/>
 - Stimulation Frequency: 20 Hz (can be reprogammed) <br/>
 - Carrier Frequency: 10 kHz (can be reprogrammed) <br/>
 - Power: 9 V battery (can be rechared) <br/>
