@@ -62,7 +62,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 ![Stimulation](https://github.com/OpenXStim/openVstim/blob/main/Images/Stimulation.png) 
 
 ### TUTORIALS:
-### For more on this, please visit: [OpenXstim](https://www.youtube.com/channel/UCbJmVIHp6DNizZjKjeSPdPg)
+### Coming soon in this channel: [OpenXstim](https://www.youtube.com/channel/UCbJmVIHp6DNizZjKjeSPdPg)
 
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
