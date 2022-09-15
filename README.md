@@ -29,7 +29,8 @@ Contact: md.malam@connect.polyu.hk <br/>
 
 ![Boost-Converter](https://github.com/OpenXStim/openVstim/blob/main/Images/BoostConverter.png)
 
-<P align="justify"> STEP 1: To have easier access for varying the stimulation intensity and to power on/off the stimulator, on-board trimmer potentiometer (ex. 10kΩ) needed to be replaced with an external linear single gang potentiometer of the same value. For easier prototyping, the on-board trimmer is removed (de-soldered), and 3 pin headers are soldered as shown in the following image.
+**Step 1: Replace the potentiometer of XL6009 DC-DC boost converter module**
+<P align="justify"> To have easier access for varying the stimulation intensity and to power on/off the stimulator, on-board trimmer potentiometer (ex. 10kΩ) needed to be replaced with an external linear single gang potentiometer of the same value. For easier prototyping, the on-board trimmer is removed (de-soldered), and 3 pin headers are soldered as shown in the following image.
 
 ![XL6009-Module](https://github.com/OpenXStim/openVstim/blob/main/Images/XL6009Module.png)
  
@@ -38,14 +39,16 @@ Contact: md.malam@connect.polyu.hk <br/>
 
 ![H-Bridge](https://github.com/OpenXStim/openVstim/blob/main/Images/HBridgeDrive.png) 
 
-<P align="justify"> STEP 2: To complete the circuit between the XL6009 DC-DC converter, DRV8871 H-bridge driver and the Microcontroller, an Arduino Uno Shield prototyping board is used. Connectors (PCB receptacles), connecting wires, the 10kΩ linear single gang potentiometer with build-in on/off switch and a 9V battery snap are soldered onto the shield board as shown in following image. Since, the Arduino Uno Shield comes with PCB tracks, carefully disconnecting any unwanted track to the modules and connections are needed. The connections were carefully tested for any short-circuits using a multimeter before powering up the board.
+**Step 2: Solder all components and connections on the Arduino Uno Shield board**
+<P align="justify"> To complete the circuit between the XL6009 DC-DC converter, DRV8871 H-bridge driver and the Microcontroller, an Arduino Uno Shield prototyping board is used. Connectors (PCB receptacles), connecting wires, the 10kΩ linear single gang potentiometer with build-in on/off switch and a 9V battery snap are soldered onto the shield board as shown in following image. Since, the Arduino Uno Shield comes with PCB tracks, carefully disconnecting any unwanted track to the modules and connections are needed. The connections were carefully tested for any short-circuits using a multimeter before powering up the board.
 
 ![ArduinoUno-Shield](https://github.com/OpenXStim/openVstim/blob/main/Images/ArduinoUnoShield.png)
 
 ### Module 3: Microcontroller (Arduino Uno)
 <P align="justify"> Two GPIO pins (D9 and D10) of Arduino Uno Microcontroller are used for logic control of the H-bride driver circuit (see DRV8871). The Arduino Uno has also an on-board LED connected to GPIO pin D13.
 
-<P align="justify"> STEP 3: To program the Microcontroller, the Arduino Uno board is connected to a PC via an USB cable. After successfully selecting Arduino Uno board from the menu of Arduino IDE, the Microcontroller is programmed for GPIO 9 and 10 to logic control (HIGH/LOW) the DRV8871 H-bridge driver to generate biphasic stimulation. Finally, to visualization that the stimulation is in operation, the Arduino Uno on-board LED (GPIO pin D13) is being toggled. The program runs in a continuous loop until it is powered off. The flushing rates of LED represents the stimulation frequency. 
+**Step 3: Program the Arduino Uno Microcontroller to generate biphasic stimulation**
+<P align="justify"> To program the Microcontroller, the Arduino Uno board is connected to a PC via an USB cable. After successfully selecting Arduino Uno board from the menu of Arduino IDE, the Microcontroller is programmed for GPIO 9 and 10 to logic control (HIGH/LOW) the DRV8871 H-bridge driver to generate biphasic stimulation. Finally, to visualization that the stimulation is in operation, the Arduino Uno on-board LED (GPIO pin D13) is being toggled. The program runs in a continuous loop until it is powered off. The flushing rates of LED represents the stimulation frequency. 
 
 ![Arduino-Uno](https://github.com/OpenXStim/openVstim/blob/main/Images/Flowchart.png) 
  
