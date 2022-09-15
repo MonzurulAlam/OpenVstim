@@ -53,9 +53,9 @@ Contact: md.malam@connect.polyu.hk <br/>
 ![Arduino-Uno](https://github.com/OpenXStim/openVstim/blob/main/Images/Flowchart.png) 
  
 ### Prototype: OpenVstim
-<P align="justify">OpenVstim, open-source transcutaneous electrical stimulator with standard EMS/TENS lead wires to connect stimulation electrodes. The linear potentiometer controls the intensity of the stimulation as well as switches on and off the stimulator. A battery clip is used to connect a 9V battery to power the stimulator.
+<P align="justify">OpenVstim, open-source transcutaneous electrical stimulator with standard EMS/TENS lead wires to connect stimulation electrodes. The linear potentiometer controls the intensity of the stimulation as well as switches on and off the stimulator. A 9V battery is used to power the stimulator.
 
-![Open-V-stim](https://github.com/OpenXStim/openVstim/blob/main/Images/Stimulator.png) 
+![Open-V-stim](https://github.com/OpenXStim/openVstim/blob/main/Images/OpenVstim.png) 
 
 <P align="justify">Biphasic stimulation (10kHz burst of 10 biphasic pulses) with maximum peak-to-peak voltage of 64V. 
 
