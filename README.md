@@ -6,7 +6,7 @@ Profile: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao <
 Contact: md.malam@connect.polyu.hk <br/>
 
 ### OBJECTIVES:
-<P align="justify"> The objective of the project was to develop an easy-to-build open-source electrical stimulator for transcutaneous spinal cord stimulation.
+<P align="justify"> The objective of the project was to design an easy-to-build open-source electrical stimulator for transcutaneous spinal cord stimulation.
 
 ### STIMULATOR SPECIFICATIONS:
 - Channel: 1 (can be expanded to more channels) <br/>
