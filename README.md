@@ -5,8 +5,8 @@ Dr Monzurul Alam <br/>
 Profile: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao <br/>
 Contact: md.malam@connect.polyu.hk <br/>
 
-### PROJECT OBJECTIVE:
-<P align="justify"> The objective of the project was to develop an open-source electrical stimulator for transcutaneous spinal cord stimulation.
+### OBJECTIVES:
+<P align="justify"> The objective of the project was to develop an easy-to-build open-source electrical stimulator for transcutaneous spinal cord stimulation.
 
 ### STIMULATOR SPECIFICATIONS:
 - Channel: 1 (can be expanded to more channels) <br/>
@@ -68,10 +68,10 @@ Contact: md.malam@connect.polyu.hk <br/>
 <P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
 ### WARNING:
-- The desing is inteded strickly for research and education purpose. 
-- The stimulator is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Review Board
-- The stimulator can generate high voltage and under no circumstances it should be placed across the chest or close to the heart
-- The stimulator should never be powered or charged from external adapter, USB or power source while being used or connected to the body.
+- The design is intended stricktly for research and education purposes.
+- The stimulator is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Review Board.
+- The stimulator can generate high voltage and under no circumstances it should be placed across the chest or close to the heart.
+- The stimulator should never be powered from external adapter, USB or power source while being used or connected to the body.
 
 ### LICENSE:
 ##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
