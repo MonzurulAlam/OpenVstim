@@ -59,7 +59,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 
 <P align="justify">Biphasic stimulation (10kHz burst of 10 biphasic pulses) with maximum peak-to-peak voltage of 64V. 
 
-![Stimulation](https://github.com/OpenXStim/openVstim/blob/main/Images/Stimulation.png) 
+![FastStimulation](https://github.com/OpenXStim/openVstim/blob/main/Images/FastStimulation.png) 
 
 ### TUTORIALS:
 ### Coming soon in this channel: [OpenXstim](https://www.youtube.com/channel/UCbJmVIHp6DNizZjKjeSPdPg)
