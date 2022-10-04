@@ -64,7 +64,7 @@ Contact: md.malam@connect.polyu.hk <br/>
 ![FastStimulation](https://github.com/OpenXStim/openVstim/blob/main/Images/FastStimulation.png) 
 
 ### TUTORIALS:
-### Coming soon in this channel: [OpenXstim](https://www.youtube.com/channel/UCbJmVIHp6DNizZjKjeSPdPg)
+### Please read the details here: [OpenXstim](https://www.researchsquare.com/article/rs-2116817/v1)
 
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
