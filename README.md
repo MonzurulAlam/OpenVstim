@@ -1,4 +1,4 @@
-# <P align="center"> OpenVstim - Open Source Transcutaneous Electrical Stimulator 
+# <P align="center"> OpenVstim - Open Source Transcutaneous Voltage Stimulator 
  
 ### DEVELOPED BY:
 Dr Monzurul Alam <br/>
